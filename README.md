@@ -101,26 +101,14 @@ The application will be available at `http://127.0.0.1:5000`
 3. **Describe Symptoms** - Color changes, spots, wilting, location on plant
 4. **Mention Care Routine** - Watering frequency, light conditions, recent changes
 
-### Example Good Descriptions:
-- "My fiddle leaf fig has brown spots with yellow halos on older leaves"
-- "White powdery substance appeared on my rose bush leaves after humid weather"
-- "Tomato plant leaves are curling upward and turning yellow from bottom up"
 
-## Error Handling
 
-The application includes comprehensive error handling for:
-- Missing or invalid API keys
-- Network connectivity issues
-- API rate limits
-- Invalid file formats
 
 ## Environment Variables
 
 - `GROQ_API_KEY` - Your Groq API key (required)
 
-## License
 
-This project is open source and available under the MIT License.
 
 
 
